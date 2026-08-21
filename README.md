@@ -79,3 +79,5 @@ The dashboard allows users to quickly identify:
 **Sajid**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
+
+**Dataset**: Synthetic e-commerce dataset created for analytics and dashboard practice.
