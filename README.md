@@ -37,12 +37,11 @@ The dashboard includes:
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
-- DAX
-- SQL
-- MySQL
-- Data Modeling
-- Data Visualization
+- **Power BI** — Dashboard development and data visualization
+- **DAX** — Calculated measures and business metrics
+- **SQL** — Data querying and analysis
+- **MySQL** — Database management
+- **Data Modeling** — Relationships between fact and dimension tables
 
 ## 🗂️ Data Model
 
