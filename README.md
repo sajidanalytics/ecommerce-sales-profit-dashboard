@@ -2,6 +2,10 @@
 
 A Power BI dashboard designed to analyze e-commerce sales performance, profitability, customers, products, sales channels, and geographic performance.
 
+## 📸 Dashboard Preview
+
+![E-Commerce Sales & Profit Dashboard](Edashboard.png)
+
 ## 🎯 Project Overview
 
 This project analyzes e-commerce sales data for 2025 and provides an interactive dashboard to help understand business performance and identify important sales and profit trends.
